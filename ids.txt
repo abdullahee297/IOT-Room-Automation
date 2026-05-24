@@ -1,0 +1,9 @@
+#define ssid             "Zodiac"    
+#define password         "jannifer"
+#define APP_KEY          "801e7c66-c080-4492-8ef5-5b1b3275ba30" 
+#define APP_SECRET       "249b8709-5f1a-4ed6-842d-fe4c604a567d-30503176-4f3e-4108-97cc-ce01e6f4a53f" 
+
+//Enter the device IDs here
+#define device_ID_1   "685506a5929fca43025c0efd"
+#define device_ID_2   "685507c4030990a558b8adf7"
+#define device_ID_3   "685507e6030990a558b8ae20"
