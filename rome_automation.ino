@@ -16,16 +16,16 @@
 
 #include <map>
 
-const char* ssid = "HEAVEN ESTATE 786";        
-const char* password = "manzoor99594";
+const char* ssid = "Wifi Name";        
+const char* password = "YOUR-WIFI-PASSWORD";
 
-#define APP_KEY          "801e7c66-c080-4492-8ef5-5b1b3275ba30" 
-#define APP_SECRET       "249b8709-5f1a-4ed6-842d-fe4c604a567d-30503176-4f3e-4108-97cc-ce01e6f4a53f" 
+#define APP_KEY          "APP-KEY" 
+#define APP_SECRET       "APP-KEY-SECRET" 
 
 //Enter the device IDs here
-#define device_ID_1   "685506a5929fca43025c0efd"
-#define device_ID_2   "685507c4030990a558b8adf7"
-#define device_ID_3   "685507e6030990a558b8ae20"
+#define device_ID_1   "DEVICE-ID"
+#define device_ID_2   "DEVICE-ID"
+#define device_ID_3   "DEVICE-ID"
 
 // define the GPIO connected with Relays and switches
 #define RelayPin1 D1  //D1
